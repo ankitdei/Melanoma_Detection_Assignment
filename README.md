@@ -41,21 +41,11 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 - Pandas, Numpy, Matplotlib,
 - Augmentor
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on 
+- This project was inspired by CNN project assignment
+  
 
 
 ## Contact
 Created by [@ankitdei] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
